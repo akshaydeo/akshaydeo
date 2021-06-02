@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💼 I currently work @ @postman as Senior Engineering Manager.
+💼 I currently Head Product Engineering at [Postman](https://postman.com)
 
 ✍️ I write [here](https://akshaydeo.com)
 
