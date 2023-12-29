@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💼 I currently Head Product Engineering at [Postman](https://postman.com)
+💼 Co-founder and CTO at [Maxim](https://getmaxim.ai)
 
 ✍️ I write [here](https://akshaydeo.com)
 
